@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS activity_signups CASCADE;
+DROP TABLE IF EXISTS activities CASCADE;
